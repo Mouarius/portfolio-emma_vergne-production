@@ -1,0 +1,7 @@
+Pour chacun des projets, générer un set d'images de tailles bien définies qui serviront à différents rôles :
+
+- Miniature sur liste des projets : nom_projet-min.jpg, dim : 600x600px
+- Large pour en-tête projet : nom_projet-cover.jpg, dim: 1200x800px
+- Autres : nom_projetX-medium.jpg (1200x800px) et nom_projetX-large (1920x1080px)
+
+
